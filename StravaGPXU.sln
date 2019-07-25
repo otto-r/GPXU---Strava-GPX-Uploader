@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StravaGPXU", "StravaGPXU.csproj", "{8783B15C-D559-4AAD-B32F-C1AB2871CF94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8783B15C-D559-4AAD-B32F-C1AB2871CF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8783B15C-D559-4AAD-B32F-C1AB2871CF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8783B15C-D559-4AAD-B32F-C1AB2871CF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8783B15C-D559-4AAD-B32F-C1AB2871CF94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D907D72-60F3-4594-9736-F99F1E12FFA3}
+	EndGlobalSection
+EndGlobal
